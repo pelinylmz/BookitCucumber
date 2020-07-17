@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6363aec-cb7a-414b-959b-7a79f119257d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="All" color="eafffa" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eoGYKParX325hfTir0xMf0xAjs" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.bookit.utilities" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6363aec-cb7a-414b-959b-7a79f119257d" name="Default Changelist" comment="" />
+      <created>1594980579210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594980579210</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="641" y="154" key="#Project_Structure" timestamp="1594980735683">
+      <screen x="0" y="23" width="1792" height="1021" />
+    </state>
+    <state x="641" y="154" key="#Project_Structure/0.23.1792.1021@0.23.1792.1021" timestamp="1594980735683" />
+    <state x="758" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594980915631">
+      <screen x="0" y="23" width="1792" height="1021" />
+    </state>
+    <state x="758" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1021@0.23.1792.1021" timestamp="1594980915631" />
+    <state x="800" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1594980582563">
+      <screen x="0" y="23" width="1792" height="1021" />
+    </state>
+    <state x="800" y="354" key="com.intellij.ide.util.TipDialog/0.23.1792.1021@0.23.1792.1021" timestamp="1594980582563" />
+    <state x="474" y="242" width="670" height="676" key="search.everywhere.popup" timestamp="1594981754117">
+      <screen x="0" y="23" width="1792" height="1021" />
+    </state>
+    <state x="474" y="242" width="670" height="676" key="search.everywhere.popup/0.23.1792.1021@0.23.1792.1021" timestamp="1594981754117" />
+  </component>
+</project>
